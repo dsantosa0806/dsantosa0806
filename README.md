@@ -1,4 +1,4 @@
-### Hello there - i am Daniel Ameida👋
+### Hello there ! 👋
 
 
 - 🔭 I’m currently working on Python and SQL scripts
