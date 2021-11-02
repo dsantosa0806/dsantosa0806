@@ -10,9 +10,11 @@
 ## Oi eu sou a Daniel Almeida, aprendiz de Data Science !
 <div>  
   <a href="https://github.com/dsantosa0806">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dsantosa0806&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsantosa0806&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+ <div align="center">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=dsantosa0806&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=graywhite"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsantosa0806&layout=compact&theme=graywhite&hide_border=true" />
+  </div>
  
 <div style="display: inline_block"><br> 
   
@@ -24,9 +26,7 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" target="_blank"></a>
 
 </div>
-  
-  ##
- 
+   
 <div> 
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:dsantosa0806@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -38,4 +38,7 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+
+
 
