@@ -1,9 +1,9 @@
 ![Peek 2020-07-09 15-53](https://user-images.githubusercontent.com/7910856/87048834-84abea80-c1fc-11ea-9342-27b96a046ba4.gif)
-<h3 align="center">Data Base Engineer @ <a href='https://sites.google.com/view/daniel-almeida/home'> | Portifólio | Data Science Enthusiast | Businnes Analyst | <a href='https://www.totalcontroll.com.br/'> Total Controll Builder</a></h3>
+<h3 align="center">Data Base Engineer <a href='https://sites.google.com/view/daniel-almeida/home'> | Portifólio | Data Science Enthusiast | Businnes Analyst | <a href='https://www.totalcontroll.com.br/'> Total Controll Builder </a></h3>
 
 ## I little bit about me
 
-🎓 &nbsp;I'm currently juggling these [Udacity](https://imp.i115008.net/BXeWKW) courses and intend to complete them soon:
+🎓 &nbsp;I'm currently learning [TreinaWeb](https://www.treinaweb.com.br) courses and intend to complete them soon:
 
 - [AWS Machine Learning Engineer Nanodegree](https://imp.i115008.net/VyRr4M)
 - [Cloud Architect using Microsoft Azure](https://imp.i115008.net/7mLA1y)
