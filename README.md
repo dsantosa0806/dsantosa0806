@@ -1,9 +1,10 @@
 ## Olá, eu sou Daniel Almeida, aprendiz de Data Science! 👋
 
-- 🔭 Atualmente estou trabalhando em scripts Python e SQL.
-- 🌱 Estou aprendendo Python, Machine Learning e Data Science.
+- 🔭 Atualmente estou trabalhando em scripts Python e SQL para análise de dados.
+- 🌱 Estou continuamente aprendendo e aprimorando minhas habilidades em Python, Machine Learning e Data Science para melhorar minhas análises.
+- 👨‍💼 Tenho experiência em ferramentas de BI como Tableau, Power BI e QlikView para criar painéis interativos e relatórios informativos.
+- 📊 Trabalho com bases de dados SQL, incluindo PostgreSQL, MySQL e Microsoft SQL Server para extrair insights valiosos.
 - 📫 Como me contatar: dsantosa0806@gmail.com
-- 😄 Pronomes: Ele/Dele
 
 <a href="https://twitter.com/Dani_Almeiida">
   <img align="left" alt="Daniel Almeida | Twitter" width="22px" src="https://www.svgrepo.com/show/475689/twitter-color.svg" />
@@ -11,7 +12,7 @@
 <a href="https://www.linkedin.com/in/daniel-almeida-b87887211/">
   <img align="left" alt="Daniel Almeida" width="22px" src="https://www.svgrepo.com/show/452051/linkedin.svg" />
 </a>
-<a href="">
+<a href="https://sites.google.com/view/daniel-almeida/home">
   <img align="left" alt="Daniel Almeida | Portfólio" width="22px" src="https://www.svgrepo.com/show/267862/portfolio.svg" />
 </a>
 
