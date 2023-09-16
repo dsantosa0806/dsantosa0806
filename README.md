@@ -1,4 +1,4 @@
-## Olá, eu sou Daniel Almeida, aprendiz de Data Science! 👋
+## Olá, eu sou Daniel Almeida👋
 
 - 🔭 Atualmente estou trabalhando em scripts Python e SQL para análise de dados.
 - 🤖 Especialista em automações.
@@ -17,8 +17,11 @@
   <img align="center" alt="Pandas" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
   <img align="center" alt="Postgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Mongodb" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">  
+  <img align="center" alt="Mongodb" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="PowerBI" height="30" width="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+  
 </div>
 
 ## 
@@ -31,8 +34,7 @@
       <li><a href="https://alegacoesnlp.streamlit.app/">Projeto de NLP</a></li>
       <li><a href="https://totalcontroll.streamlit.app/">Ferramentas</a></li>
       <li><a href="https://totalcontrollserget.com.br">Total Controll</a></li>
-      <li><a href="https://sites.google.com/view/daniel-almeida/home">Portifóliol</a></li>
-      
+      <li><a href="https://sites.google.com/view/daniel-almeida/home">Portifólio</a></li>      
     </ul>
   </div>
 </div>
