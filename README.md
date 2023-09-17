@@ -1,10 +1,11 @@
 ## Olá, eu sou Daniel Almeida👋
 
-- 🔭 Atualmente estou trabalhando em scripts Python e SQL para análise de dados.
+- 📊 Tenho expertise em Python, SQL e análise de dados, transformando dados brutos em insights valiosos para apoiar decisões estratégicas.
+- 🔭 Pós graduando em ciência de dados e inteligência artificial.
 - 🤖 Especialista em automações.
 - 👨‍💼 Tenho experiência em ferramentas de BI como Tableau, Power BI e QlikView para criar painéis interativos e relatórios informativos.
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dsantosa0806@gmail.com) 
+<a href = "mailto:dsantosa0806@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-almeida-b87887211/)
 [![Portifólio](https://img.shields.io/badge/Google-Ffffff?style=for-the-badge&logo=google&logoColor=black)](https://sites.google.com/view/daniel-almeida/home)
 
