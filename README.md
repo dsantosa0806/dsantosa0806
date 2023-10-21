@@ -36,6 +36,7 @@
       <li><a href="https://totalcontroll.streamlit.app/">Ferramentas</a></li>
       <li><a href="https://totalcontrollserget.com.br">Total Controll</a></li>
       <li><a href="https://sites.google.com/view/daniel-almeida/home">Portifólio</a></li>      
+      <li><a href="https://dashboardpadrao.streamlit.app/">DataViz</a></li>  
     </ul>
   </div>
 </div>
